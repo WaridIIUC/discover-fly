@@ -68,10 +68,10 @@ nav ul li a:hover, a.active{
     align-items: center;
 }
 .input-1st-half{
-    width: 70%;
+    width: 60%;
 }
 .inp-width{
-    min-width: 100%;
+    width: 100% !important;
 }
 .plus-minus-btn{
     font-size: 30px;
